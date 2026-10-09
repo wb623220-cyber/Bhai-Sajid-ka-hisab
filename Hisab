@@ -1,0 +1,26 @@
+# Bhai Sajid ka Hisaab
+
+Android app for managing sweets and bakery shop inventory, sales, cash, and accounts.
+
+## Main Features
+
+* Item search and stock management
+* Stock IN and OUT entries
+* Automatic remaining stock calculation
+* Separate product variants and company-wise stock
+* Sales bills and daily sales totals
+* Purchase cost, selling price, and profit tracking
+* Cash IN and OUT records
+* Daily and monthly reports
+* Stock wastage, samples, and returns
+* Bhai Sajid ledger and payment records
+* Low-stock and expiry alerts
+* Backup and restore support
+
+## Platform
+
+Android
+
+## Project Status
+
+Development in progress.
